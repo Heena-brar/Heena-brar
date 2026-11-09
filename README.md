@@ -26,11 +26,15 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,c,cpp,nodejs,git,github,vscode" />
 </p>
 
-<h2 align="center">📊 My GitHub Dashboard</h2>
+ <h2 align="center">📊 My GitHub Dashboard</h2>
 
 <p align="center">
-  <img src="https://ghstats.dev/api/card?username=Heena-brar&theme=violet" width="49%" alt="GitHub Statistics" />
-  <img src="https://ghstats.dev/api/langs?username=Heena-brar&theme=violet&layout=grid&max_langs=8" width="49%" alt="Top Programming Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Heena-brar&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="49%" alt="GitHub Statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Heena-brar&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" width="49%" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Heena-brar&theme=tokyonight&hide_border=true" width="70%" alt="GitHub Contribution Streak" />
 </p>
 
 <h2 align="center">🌱 My Developer Journey</h2>
