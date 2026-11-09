@@ -46,36 +46,33 @@
 - Improving my problem-solving skills.
 - Contributing to open-source projects.
 
-
-### 🚀 Featured Projects
+ ### 🚀 Featured Projects
 
 <table>
 <tr>
-<td width="50%">
-<h3 align="center">Calvo</h3>
-<p align="center">
-A project showcasing my development and problem-solving skills.
-</p>
-<p align="center">
-<a href="https://github.com/Heena-brar/YOUR-CALVO-REPO">
-View Repository →
-</a>
-</p>
+<td width="50%" valign="top">
+<h3>🌐 Calvo</h3>
+
+A web development project focused on creating a functional and engaging user experience.
+
+- Status: Live
+- Type: Web Development
+
+<a href="https://heena-brar.github.io/calvo-app/">🔗 View Live Project</a>
 </td>
-<td width="50%">
-<h3 align="center">Exam Prep Tracker</h3>
-<p align="center">
-An AI-powered adaptive study planner designed to understand student progress and improve learning.
-</p>
-<p align="center">
-<a href="https://github.com/Heena-brar/YOUR-EXAM-PREP-REPO">
-View Repository →
-</a>
-</p>
+
+<td width="50%" valign="top">
+<h3>📚 Exam Prep Tracker</h3>
+
+An AI-powered adaptive study planner that learns from student progress and helps create personalized study plans.
+
+- Status: 🚧 Currently Building
+- Focus: AI/ML & Full-Stack Development
+
+Coming Soon!
 </td>
 </tr>
 </table>
-
 
 ### 🌐 Connect With Me
 
