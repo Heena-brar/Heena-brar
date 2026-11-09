@@ -26,6 +26,19 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,c,cpp,nodejs,git,github,vscode" />
 </p>
 
+
+### 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=Heena-brar&show_icons=true&include_all_commits=true&theme=default&hide_border=true" height="165" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Heena-brar&layout=compact&theme=default&hide_border=true" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Heena-brar&theme=default&hide_border=true" height="165" />
+</p>
+
+
 ### 🚀 What I'm Working Towards
 
 - Building practical web applications.
