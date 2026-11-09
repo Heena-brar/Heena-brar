@@ -20,18 +20,11 @@
 - 🤝 Interested in Open Source Contributions and collaboration.
 - 🎯 Working towards becoming a better developer every day.
 
+### 🛠️ Technologies & Tools
 
-### 💻 Languages & Technologies
-
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,c,cpp,nodejs,git,github,vscode" />
 </p>
-
-
 
 ### 📊 GitHub Statistics
 
@@ -53,6 +46,18 @@
 <p align="center">
   HTML • CSS • JavaScript • C • C++
 </p>
+
+
+### 💻 Languages & Technologies
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+</p>
+
 
 ### 🚀 What I'm Working Towards
 
