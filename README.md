@@ -46,6 +46,37 @@
 - Improving my problem-solving skills.
 - Contributing to open-source projects.
 
+
+### 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">Calvo</h3>
+<p align="center">
+A project showcasing my development and problem-solving skills.
+</p>
+<p align="center">
+<a href="https://github.com/Heena-brar/YOUR-CALVO-REPO">
+View Repository →
+</a>
+</p>
+</td>
+<td width="50%">
+<h3 align="center">Exam Prep Tracker</h3>
+<p align="center">
+An AI-powered adaptive study planner designed to understand student progress and improve learning.
+</p>
+<p align="center">
+<a href="https://github.com/Heena-brar/YOUR-EXAM-PREP-REPO">
+View Repository →
+</a>
+</p>
+</td>
+</tr>
+</table>
+
+
 ### 🌐 Connect With Me
 
 <p align="left">
