@@ -33,14 +33,20 @@
   <img src="https://ghstats.dev/api/langs?username=Heena-brar&theme=violet&layout=grid&max_langs=8" width="49%" alt="Top Programming Languages" />
 </p>
 
+<h2 align="center">🌱 My Developer Journey</h2>
 
 <p align="center">
-  <img
-    src="https://github-readme-streak-stats-eight.vercel.app/?user=Heena-brar&theme=radical&hide_border=true"
-    width="70%"
-    alt="GitHub Contribution Streak"
-  />
+  Building projects, exploring AI/ML,
+  learning new technologies and contributing
+  to open-source.
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Full--Stack%20Development-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Exploring-AI%2FML-pink?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Goal-Open%20Source-blueviolet?style=for-the-badge" />
+</p>
+
 
 
 ### 💻 Languages & Technologies
