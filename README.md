@@ -33,9 +33,15 @@
   <img src="https://ghstats.dev/api/langs?username=Heena-brar&theme=violet&layout=grid&max_langs=8" width="49%" alt="Top Programming Languages" />
 </p>
 
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Heena-brar&theme=radical&hide_border=true" width="70%" alt="GitHub Contribution Streak" />
+  <img
+    src="https://github-readme-streak-stats-eight.vercel.app/?user=Heena-brar&theme=radical&hide_border=true"
+    width="70%"
+    alt="GitHub Contribution Streak"
+  />
 </p>
+
 
 ### 💻 Languages & Technologies
 
