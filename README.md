@@ -25,12 +25,14 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,c,cpp,nodejs,git,github,vscode" />
 </p>
-## 📊 My GitHub Dashboard
+
+📊 My GitHub Dashboard
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Heena-brar&show_icons=true&theme=radical&hide_border=true&rank_icon=github" width="49%" alt="GitHub Statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Heena-brar&layout=compact&langs_count=8&theme=radical&hide_border=true" width="49%" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api?username=Heena-brar&show_icons=true&theme=radical&hide_border=true" width="49%" alt="GitHub Statistics" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Heena-brar&layout=compact&langs_count=8&theme=radical&hide_border=true" width="49%" alt="Top Languages" />
 </p>
+
 <h2 align="center">🌱 My Developer Journey</h2>
 
 <p align="center">
